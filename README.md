@@ -36,14 +36,20 @@ A comprehensive data analysis project built using **Python (Jupyter Notebook)** 
 
 ![Viz1](viz/Customer360_viz1.png)
 
-<p align="center">
-  <b>Figure 1:</b> Overview of ticket rating distributions, active account distribution by country, average annual revenue per account status, and active subscriber counts categorized by plan tiers and billing cycles.
-</p>
+<div align="center">
+
+### Part 1: Support Metrics, Geographic Distributions & Subscriptions
+*Analysis of rated versus unrated support tickets, active account distributions across countries, average annual revenues by account status, and subscription tier breakdowns by billing cycles.*
+
+</div>
 
 ---
 
 ![Viz2](viz/Customer360_viz2.png)
 
-<p align="center">
-  <b>Figure 2:</b> Analysis of monetary transaction flows, marketing channel performance, cancellation rates grouped by priority levels, and campaign conversions measured against average budgets.
-</p>
+<div align="center">
+
+### Part 2: Monetary Flow, Marketing Channels & Campaign Conversions
+*Overview of transaction type monetary flows, marketing channel performance, cancellation rates grouped by priority, and campaign conversions measured against average budgets.*
+
+</div>

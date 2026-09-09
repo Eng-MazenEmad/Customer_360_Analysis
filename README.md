@@ -31,11 +31,13 @@ A comprehensive data analysis project built using **Python (Jupyter Notebook)** 
 * Generated analytical plots to track conversion rates across marketing channels, average revenues per account status, and transaction trends over time.
 ---
 <a id="viz"></a>
+
 ![Viz1](viz/Customer360_viz1.png)
 
 <div align="center">
 ### Part 1: Customer Segments, Regional Losses & Sub-Category Discounts
 *Analysis of total sales and profit margins by customer segments, identifying top loss-making states, and examining the impact of discount levels across product sub-categories.*
+  
 </div>
 
 ---

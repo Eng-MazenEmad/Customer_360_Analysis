@@ -29,22 +29,21 @@ A comprehensive data analysis project built using **Python (Jupyter Notebook)** 
 
 ### 4. Data Visualizations & Insights
 * Generated analytical plots to track conversion rates across marketing channels, average revenues per account status, and transaction trends over time.
+
 ---
+
 <a id="viz"></a>
 
 ![Viz1](viz/Customer360_viz1.png)
 
-<div align="center">
-### Part 1: Customer Segments, Regional Losses & Sub-Category Discounts
-*Analysis of total sales and profit margins by customer segments, identifying top loss-making states, and examining the impact of discount levels across product sub-categories.*
-  
-</div>
+<p align="center">
+  <b>Figure 1:</b> Overview of ticket rating distributions, active account distribution by country, average annual revenue per account status, and active subscriber counts categorized by plan tiers and billing cycles.
+</p>
 
 ---
 
 ![Viz2](viz/Customer360_viz2.png)
 
-<div align="center">
-### Part 2: Sales Distribution, Top Customers & Monthly Trends
-*Overview of category shares, top high-value customers, order volume by shipping duration, monthly sales/profit trajectories, and overall discount impact curves.*
-</div>
+<p align="center">
+  <b>Figure 2:</b> Analysis of monetary transaction flows, marketing channel performance, cancellation rates grouped by priority levels, and campaign conversions measured against average budgets.
+</p>
